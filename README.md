@@ -1,4 +1,4 @@
-# Continual-Learning-on-FPGAs-using-FINN
+# Continual Learning on FPGAs using FINN
 FINN Extension to Enable Training on FPGA Hardware Accelerators Using Hardware-Software Co-Design
 Using MPQ-DNNs FPGA-Accels are also built for efficient diagnosis of Cardiac Diseases (CD).
 
