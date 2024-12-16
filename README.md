@@ -34,8 +34,16 @@ The Framework consists of three main self-explanatory files, 1. FPGA-Accel-Build
 
 ### Citation
 
-The current implementation of the framework is based on the following publication. Please consider citing it if you find it useful.
+The current implementation of the framework is based on the following publication. If you find it useful, please consider citing it.
 
-MUHAMMAD SHAKEEL AKRAM, Bogaraju Sharatchandra Varma, Dewar Finlay. Continual Learning on FPGAs for Efficient Cardiac Diagnosis through Mix-Precision Quantized DNNs. TechRxiv.
-DOI: 10.36227/techrxiv.173385784.49083162/v1
+Akram, Muhammad Shakeel, Bogaraju Sharatchandra Varma, and Dewar Finlay. "Continual Learning on FPGAs for Efficient Cardiac Diagnosis through Mix-Precision Quantized DNNs." Authorea Preprints (2024).
+
+```bibtex
+@article{akram2024continual,
+  title={Continual Learning on FPGAs for Efficient Cardiac Diagnosis through Mix-Precision Quantized DNNs},
+  author={Akram, Muhammad Shakeel and Varma, Bogaraju Sharatchandra and Finlay, Dewar},
+  journal={Authorea Preprints},
+  year={2024},
+  publisher={Authorea}
+}
 
